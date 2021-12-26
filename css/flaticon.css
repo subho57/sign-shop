@@ -1,0 +1,90 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 12/08/2021 05:19
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticon.eot") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff") format("woff2"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+  font-style: normal;
+}
+
+.flaticon-sign:before { content: "\f100"; }
+.flaticon-pub:before { content: "\f101"; }
+.flaticon-direction:before { content: "\f102"; }
+.flaticon-signage:before { content: "\f103"; }
+.flaticon-parking:before { content: "\f104"; }
+.flaticon-signage-1:before { content: "\f105"; }
+.flaticon-signage-2:before { content: "\f106"; }
+.flaticon-radioactive:before { content: "\f107"; }
+.flaticon-signage-3:before { content: "\f108"; }
+.flaticon-parking-sign:before { content: "\f109"; }
+.flaticon-signage-4:before { content: "\f10a"; }
+.flaticon-bar:before { content: "\f10b"; }
+.flaticon-airport:before { content: "\f10c"; }
+.flaticon-signage-5:before { content: "\f10d"; }
+.flaticon-disabled:before { content: "\f10e"; }
+.flaticon-north-pole:before { content: "\f10f"; }
+.flaticon-go:before { content: "\f110"; }
+.flaticon-no:before { content: "\f111"; }
+.flaticon-open:before { content: "\f112"; }
+.flaticon-miles:before { content: "\f113"; }
+.flaticon-bar-1:before { content: "\f114"; }
+.flaticon-bar-2:before { content: "\f115"; }
+.flaticon-private:before { content: "\f116"; }
+.flaticon-bar-3:before { content: "\f117"; }
+.flaticon-signboard:before { content: "\f118"; }
+.flaticon-signage-6:before { content: "\f119"; }
+.flaticon-breastfeeding:before { content: "\f11a"; }
+.flaticon-signage-7:before { content: "\f11b"; }
+.flaticon-signage-8:before { content: "\f11c"; }
+.flaticon-bar-4:before { content: "\f11d"; }
+.flaticon-signage-9:before { content: "\f11e"; }
+.flaticon-signage-10:before { content: "\f11f"; }
+.flaticon-signboard-1:before { content: "\f120"; }
+.flaticon-party:before { content: "\f121"; }
+.flaticon-eye-protection:before { content: "\f122"; }
+.flaticon-north-pole-1:before { content: "\f123"; }
+.flaticon-airport-icons:before { content: "\f124"; }
+.flaticon-jeep:before { content: "\f125"; }
+.flaticon-flight:before { content: "\f126"; }
+.flaticon-dentist:before { content: "\f127"; }
+.flaticon-hospital:before { content: "\f128"; }
+.flaticon-signage-11:before { content: "\f129"; }
+.flaticon-signage-12:before { content: "\f12a"; }
+.flaticon-signage-13:before { content: "\f12b"; }
+.flaticon-signage-14:before { content: "\f12c"; }
+.flaticon-signage-15:before { content: "\f12d"; }
+.flaticon-item:before { content: "\f12e"; }
+.flaticon-sign-1:before { content: "\f12f"; }
+.flaticon-sign-2:before { content: "\f130"; }
+.flaticon-signage-16:before { content: "\f131"; }
+.flaticon-signage-17:before { content: "\f132"; }
+.flaticon-signboard-2:before { content: "\f133"; }
+.flaticon-telephone:before { content: "\f134"; }
+.flaticon-phone-call:before { content: "\f135"; }
+.flaticon-big-envelope:before { content: "\f136"; }
+.flaticon-email:before { content: "\f137"; }
+.flaticon-pin:before { content: "\f138"; }
+.flaticon-placeholder:before { content: "\f139"; }
+.flaticon-play:before { content: "\f13a"; }
+.flaticon-call:before { content: "\f13b"; }
