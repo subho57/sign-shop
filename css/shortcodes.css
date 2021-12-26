@@ -943,7 +943,7 @@ i.fa-play{ padding-left: 5px; }
     line-height: 27px;
     margin-bottom: 0;
     font-weight: 600;
-    color: #343c5c;
+    color: #1f1f1f;
 }
 
 /* style5 */
@@ -2765,7 +2765,7 @@ div:hover > .ttm-box-view-overlay:before, div:hover > .ttm-box-view-content-inne
     color: #f5cc26!important; 
     padding: 0;
 }
-.product-price { font-size: 16px; color: #343c5c; font-weight: 600;}
+.product-price { font-size: 16px; color: #1f1f1f; font-weight: 600;}
 .product-price del{font-size: 15px;color: #7b8095;}
 .product-price ins,
 .widget-top-rated-products ins{margin-left: 5px;text-decoration: none;}

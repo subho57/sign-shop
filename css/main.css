@@ -79,17 +79,17 @@ p {
 }
 
 *::-moz-selection { 
-    background: #fe5603; 
+    background: #1769aa; 
     color: #fff; 
     text-shadow: none; 
 }
 ::-moz-selection { 
-    background: #fe5603; 
+    background: #1769aa; 
     color: #fff;
     text-shadow: none; 
 }
 ::selection { 
-    background: #fe5603; 
+    background: #1769aa; 
     color: #fff; 
     text-shadow: none; 
 }
@@ -165,7 +165,7 @@ input[type="email"]:focus,
 input[type="url"]:focus, 
 input[type="tel"]:focus, 
 input[type="color"]:focus {
-    border: 1px solid #ff6229;
+    border: 1px solid #2196f3;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
@@ -207,7 +207,7 @@ body { font-family: 'Open Sans', sans-serif;
     color: #7b8095;
 
 }
-h1, h2, h3, h4, h5, h6{ font-family: 'Open Sans', sans-serif; margin-bottom: 15px; font-weight: 700; color :#343c5c;}
+h1, h2, h3, h4, h5, h6{ font-family: 'Open Sans', sans-serif; margin-bottom: 15px; font-weight: 700; color :#1f1f1f;}
 h1 { font-size: 60px; line-height: 72px; }
 h2 { font-size: 48px; line-height: 58px; }
 h3 { font-size: 38px; line-height: 48px; }
@@ -231,7 +231,7 @@ body .page.sidebar-true .site-main{
     padding: 0;
     background-color: #fff;
 }
-a{ color: #343c5c; }
+a{ color: #1f1f1f; }
 a, img{
     -webkit-transition: all 0.3s ease 0s;
     -moz-transition: all 0.3s ease 0s;
@@ -584,7 +584,7 @@ a:hover, .ttm-bgcolor-darkgrey a:hover,
 .ttm-page-title-row .breadcrumb-wrapper span,
 .ttm-blog-single blockquote cite,
 .coupon_toggle .coupon_code:before, #payment .payment_box:before{
-    color: #ff6229;
+    color: #2196f3;
 }
 
 /** Skin-bg-color **/
@@ -593,7 +593,7 @@ a:hover, .ttm-bgcolor-darkgrey a:hover,
 .ttm-p_table-icon .icon-dot, .ttm-p_table-icon .icon-dot:before,
 .progress-bar-inner .progress-bar.progress-bar-color-bar_skincolor:before,
 .progress-bar.progress-bar-color-bar_skincolor  {
-    background-image: linear-gradient(to right,#fe5603 0%,#ff7f00 50%, #fe5603 100%);
+    background-image: linear-gradient(to right,#1769aa 0%,#2196f3 50%, #1769aa 100%);
     background-size: 200% auto;
 }
 .ttm-bgcolor-skincolor,
@@ -644,7 +644,7 @@ a:hover, .ttm-bgcolor-darkgrey a:hover,
 .pagination-block .page-numbers:hover,
 .pagination-block .page-numbers.current,
 #totop.top-visible {
-    background-color: #fe5603;
+    background-color: #1769aa;
 }
 
 
@@ -659,7 +659,7 @@ a:hover, .ttm-bgcolor-darkgrey a:hover,
 :not(.ttm-bgcolor-darkgrey) .ttm-textcolor-skincolor a, :not(.ttm-bgcolor-darkgrey) .ttm-textcolor-skincolor i,
 .testimonials-nav .slick-current.testimonial-author_info .testimonial-avatar img,
 .widget .tagcloud a:hover {
-    border-color: #ff6229;
+    border-color: #2196f3;
 }
 
 .ttm-bgcolor-darkgrey .tooltip-top:before, .ttm-bgcolor-darkgrey .tooltip:before, 
@@ -668,14 +668,14 @@ a:hover, .ttm-bgcolor-darkgrey a:hover,
 .ttm-bgcolor-grey [data-tooltip]:before, .header_search .header_search_content,
 nav.main-menu, .ttm-tabs.ttm-tab-style-01 ul.tabs li.active a:before,
 article.ttm-blog-classic , #payment .payment_box, .coupon_toggle .coupon_code{
-    border-top-color: #ff6229 !important;
+    border-top-color: #2196f3 !important;
 }
 
 .ttm-bgcolor-darkgrey .tooltip-bottom:before,
 .featured-icon-box.icon-align-top-content.style2:before,
 .featured-icon-box.icon-align-top-content.style6:before,
 .header_search .header_search_content:before {
-    border-bottom-color: #ff6229;
+    border-bottom-color: #2196f3;
 }
 
 
@@ -729,7 +729,7 @@ nav.main-menu ul.menu li ul.mega-submenu li a,
 .featured-imagebox-post.style1 .featured-content .featured-title h5 a,
 .ttm-tabs.ttm-tab-style-01 ul.tabs li a,
 .ttm-tabs.ttm-tab-style-01 ul.tabs li a i {
-    color: #343c5c;
+    color: #1f1f1f;
 }
 
 /** DarkGrey-bg-color **/
@@ -760,7 +760,7 @@ nav.main-menu ul.menu li ul.mega-submenu li a,
 .featured-icon-box.icon-align-top-content.style5 .ttm-btn:after ,
 .featured-icon-box.icon-align-top-content.style5 .ttm-btn i,
 .product:hover .ttm-shop-icon .product-btn{
-  background-color: #343c5c;
+  background-color: #1f1f1f;
 }
 
 .ttm-icon.ttm-icon_element-border.ttm-icon_element-color-darkgrey,
@@ -771,12 +771,12 @@ a.ttm-btn.ttm-btn-style-fill.ttm-btn-color-white:hover,
 .ttm-bgcolor-skincolor .row > [class*='col-'] :not(.ttm-bgcolor-white) 
 a.ttm-btn.ttm-btn-style-fill.ttm-btn-color-white:hover,
 .tooltip-top:before, .tooltip:before, [data-tooltip]:before {
-    border-color: #343c5c;
+    border-color: #1f1f1f;
 }
 
 .ttm-bgcolor-skincolor .tooltip-top:before, .ttm-bgcolor-skincolor .tooltip:before, 
 .ttm-bgcolor-skincolor [data-tooltip]:before, .tooltip-top:before, .tooltip:before, [data-tooltip]:before{
-    border-top-color: #343c5c !important;
+    border-top-color: #1f1f1f !important;
 }
 
 
@@ -1408,7 +1408,7 @@ nav.main-menu ul.menu li ul.mega-submenu li:hover > a:not(.mega-menu-link){
     padding-left: 14px;
 }
 nav.main-menu ul.menu ul.mega-submenu li > a:not(.mega-menu-link):before{
-    color: #ff6229;
+    color: #2196f3;
     font-family: "FontAwesome";
     display: inline;
     font-size: 24px;
@@ -1469,7 +1469,7 @@ nav.main-menu ul.menu ul.mega-submenu li:hover > a:before { opacity: 1; }
 .footer{
     position: relative;
     z-index: 1;
-    background-color: #343c5c;
+    background-color: #1f1f1f;
     background-position: center center;
     background-attachment: scroll;
 }
@@ -1812,7 +1812,7 @@ ul.footer-nav-menu li:last-child:after{
     font-size: 18px;
     font-weight: 700;
     margin-left: 50px;
-    color: #343c5c;
+    color: #1f1f1f;
     position: relative;
 }
 .ttm-pf-detailbox-list li .ttm-pf-right-details {
@@ -1913,7 +1913,7 @@ article.ttm-blog-classic .ttm-box-post-date, article.ttm-blog-single .ttm-box-po
     top: 170px;
     font-weight: 600;
     font-size: 16px;
-    color: #343c5c;
+    color: #1f1f1f;
     -webkit-transform: rotate(-90deg);
     -ms-transform: rotate(-90deg);
     -o-transform: rotate(-90deg);
@@ -1988,7 +1988,7 @@ article.ttm-blog-classic:hover .ttm-post-featured-wrapper .ttm-post-featured:aft
     padding: 32px 30px 32px 105px;
     position: relative;
     border-left: none;
-    color: #343c5c;
+    color: #1f1f1f;
     margin: 30px 0 30px 0;
     min-height: 100px;
     border: 1px solid rgba(0,0,0,.05)!important;
@@ -2003,7 +2003,7 @@ article.ttm-blog-classic:hover .ttm-post-featured-wrapper .ttm-post-featured:aft
 }
 .ttm-blog-single blockquote:after {
     content: '';
-    background-color: #343c5c;
+    background-color: #1f1f1f;
    -webkit-mask-box-image: url(../images/qoute-bg-icon.svg);
     mask: url(../images/qoute-bg-icon.svg) no-repeat 100% 100%;
     -webkit-mask-size: cover;

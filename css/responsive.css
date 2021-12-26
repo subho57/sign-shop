@@ -90,7 +90,7 @@
 	    top: 0px;
 	    width: 0;
 	    height: 500px;
-	    background: #343c5c;
+	    background: #1f1f1f;
 	    width: 600px;
 	}
 	.header.logo-with-bg-shape .site-branding {
@@ -109,7 +109,7 @@
         height: 100%;
         margin-right: 0px;
         margin-left: 0px;
-	    background: #343c5c;
+	    background: #1f1f1f;
     }
     .header.logo-with-bg-shape .site-header-menu-inner:not(.fixed-header) .site-branding:before {
         left: auto;
@@ -252,7 +252,7 @@
 	.ttm-header-style-03 .menubar-inner:after, 
 	.ttm-header-style-03 .menubar-inner:before { background-color: #fff; }
 	.ttm-header-style-03 #site-header-menu .site-navigation ul.menu > li >a {
-	    color: #343c5c;
+	    color: #1f1f1f;
 	}
 
 	/* logo */
